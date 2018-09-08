@@ -1,4 +1,4 @@
-# What?
+# What's this?
 
 OneXBlending is a setting present in some renderers (D3Dv9, at least) which can dramatically change the way a map's lighting is rendered. 
 
