@@ -54,3 +54,10 @@ While in-game, run the hotkey by pressing `tab` and typing `exec example.cfg` wh
 
 You can also bind this to a keyboard key using `set input X exec example.cfg` to create your hotkey.
 
+How do I make a key "toggleable"?
+---------------------------------
+A "toggle" is something which switches itself back and forth. A toggle key, therefore, could be used to switch UT's music on/off using a single key.
+
+To make a hotkey toggleable, you need to use multiple `.cfg` files, and in each file, re-bind the same key to the other `.cfg` file. 
+
+For an example of this, see the "Toggle Music" folder in this repository.
