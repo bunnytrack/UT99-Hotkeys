@@ -48,4 +48,9 @@ There are several ways to create hotkey commands in UT:
 
 How do I use the hotkeys in this repository?
 --------------------------------------------
-If the hotkey is in the form of a `.cfg` file, simply copy that file to your `UT/System/` folder. While in-game, run the hotkey by pressing `tab` and typing `exec example.cfg` where `example` is the name of the hotkey file. You can also bind this to a keyboard key using `set input X exec example.cfg` to create your hotkey.
+If the hotkey is in the form of a `.cfg` file, simply copy that file to your `UT/System/` folder. 
+
+While in-game, run the hotkey by pressing `tab` and typing `exec example.cfg` where `example` is the name of the hotkey file. 
+
+You can also bind this to a keyboard key using `set input X exec example.cfg` to create your hotkey.
+
